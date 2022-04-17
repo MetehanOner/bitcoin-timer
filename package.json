@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin-timer",
+  "version": "1.0.0",
+  "description": "Bitcoin timer app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetehanOner/bitcoin-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetehanOner/bitcoin-timer/issues"
+  },
+  "homepage": "https://github.com/MetehanOner/bitcoin-timer#readme"
+}
